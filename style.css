@@ -1,0 +1,10 @@
+.file {
+  text-align: center;
+  margin: auto;
+}
+
+.submitting {
+  background-color: greenyellow;
+  border: 1px solid black;
+  margin-bottom: 5px;
+}
